@@ -1,0 +1,26 @@
+
+.Rubrik{
+text-align: center;
+
+text-decoration: underline;
+}
+
+.main{
+    display: flex;
+    height: 100vh;
+    background-color: lightblue;
+}
+h2{
+    margin: 0px;
+}
+.Presentation{
+    padding: 3rem;
+}
+body{
+    
+    background-color: darkcyan;
+}
+.bildochtext{
+    background-color: darkcyan;
+    
+}
